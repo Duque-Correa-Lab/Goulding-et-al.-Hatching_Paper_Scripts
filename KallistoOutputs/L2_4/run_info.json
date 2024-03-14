@@ -1,0 +1,13 @@
+{
+	"n_targets": 17441,
+	"n_bootstraps": 100,
+	"n_processed": 3882288,
+	"n_pseudoaligned": 3002934,
+	"n_unique": 2236578,
+	"p_pseudoaligned": 77.3,
+	"p_unique": 57.6,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Thu Feb  1 13:31:14 2024",
+	"call": "kallisto quant -t 10 -i /nfs/users/nfs_p/pa16/lustre_link/Early/Tmuris_transcripts.idx -o /nfs/users/nfs_p/pa16/lustre_link/Early/KallistoOutputs/20402_8#2 -b 100 20402_8#2_1.fastq.gz 20402_8#2_2.fastq.gz"
+}
