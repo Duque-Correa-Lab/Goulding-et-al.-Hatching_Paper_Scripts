@@ -1,0 +1,15 @@
+Starting data and time	Thursday 07 March 2024 (11:29:55)
+Ending date and time	Thursday 07 March 2024 (11:32:06)
+Time consumed	0 hours, 2 minutes, and 10 seconds
+Number of datasets	1
+Total number of input genes	16292
+Genes included in the analysis	16272
+Genes filtered out from the analysis	20
+Number of clusters	7
+Total number of genes in clusters	8163
+Genes not included in any cluster	8109
+Min cluster size	568
+Max cluster size	2194
+Average cluster size	1166.142857142857
+Number of samples (including replicates)	24
+Number of conditions	5

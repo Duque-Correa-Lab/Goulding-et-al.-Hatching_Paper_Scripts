@@ -1,0 +1,5 @@
+TPMs_All.csv	L1_Unhatched	L1_Unhatched_2,L1_Unhatched_3,L1_Unhatched_4,L1_Unhatched_5,L1_Unhatched_6
+TPMs_All.csv	L1_Hatched	L1_Hatched_1,L1_Hatched_2,L1_Hatched_3
+TPMs_All.csv	L1_3hr		L1_3hr_2,L1_3hr_3,L1_3hr_4,L1_3hr_6
+TPMs_All.csv	L1_24hr		L1_24hr_1,L1_24hr_2,L1_24hr_3,L1_24hr_4,L1_24hr_5,L1_24hr_6
+TPMs_All.csv	L2		L2_1,L2_2,L2_3,L2_4,L2_5,L2_6
