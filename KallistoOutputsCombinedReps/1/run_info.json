@@ -1,0 +1,13 @@
+{
+	"n_targets": 17441,
+	"n_bootstraps": 100,
+	"n_processed": 63001445,
+	"n_pseudoaligned": 49113995,
+	"n_unique": 35675570,
+	"p_pseudoaligned": 78.0,
+	"p_unique": 56.6,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Tue Dec  5 15:50:22 2023",
+	"call": "kallisto quant -i /nfs/users/nfs_p/pa16/Hatching_RNAseq/Tmuris_transcripts.idx -o /nfs/users/nfs_p/pa16/Hatching_RNAseq/KallistoOutputs/1 -b 100 32620_7_1_1.fastq.gz 32620_7_1_2.fastq.gz 32377_6_1_1.fastq.gz 32377_6_1_2.fastq.gz"
+}
