@@ -7,7 +7,7 @@ Abstract: "Whipworms (*Trichuris spp*) are ubiquitous parasites of humans and do
 
 Authors: David Goulding Charlotte Tolley, Tapoka T. Mkandawire, Stephen R. Doyle, Emily Hart, Paul M. Airs, Richard K. Grencis, Matthew Berriman, and María A. Duque-Correa
 
-The code for the analysis is available here:
+The code for the analysis was written by Stephen R. Doyle and Paul M. Airs, and is available here: [code](../03_code/trichuris_muris_genomics.hatching.md)
 
 Any reuse of data or code is encouraged with due acknowledgement, either via citation of the published manuscript (when available) and/or GitHub repository. Comments, suggestions, and discussion are welcome.
 
